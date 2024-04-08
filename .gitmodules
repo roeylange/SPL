@@ -1,0 +1,12 @@
+[submodule "SPL-Multi-Threads"]
+	path = SPL-Multi-Threads
+	url = git@github.com:roeylange/SPL-Multi-Threads.git
+[submodule "Studio-Managament"]
+	path = Studio-Managament
+	url = git@github.com:roeylange/Studio-Managament
+[submodule "SPL-hats-SQL"]
+	path = SPL-hats-SQL
+	url = git@github.com:roeylange/SPL-hats-SQL
+[submodule "SPL_Server_Client"]
+	path = SPL_Server_Client
+	url = git@github.com:roeylange/SPL_Server_Client.git
