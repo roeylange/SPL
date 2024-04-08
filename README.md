@@ -29,4 +29,4 @@ Welcome to the Systems Programming (SPL) assignments repository! This repository
 To access the assignments for each submodule, you can navigate to the respective submodule directories. Alternatively, you can clone this repository and initialize the submodules:
 
 ```bash
-git clone --recurse-submodules <repository-url>
+git clone --recurse-submodules git@github.com:roeylange/SPL.git
